@@ -81,6 +81,18 @@ IMG.displayed {
   margin-right: auto;
 }
 
+.avatar {
+  float: left;
+  padding-left: 360px;
+  padding-right: 0;
+}
+
+.intro {
+  padding-left: -10px;
+  padding-top: 70px;
+  padding-right: 200px;
+}
+
 #education {
   margin: 80px;
   border-bottom: 1px solid #ccc;
@@ -125,7 +137,9 @@ IMG.displayed {
   border-bottom: 1px solid #ccc;
   margin-left: 80px;
   margin-right: 80px;
+  text-align: center;
 }
+
 
 footer {
   text-align: center;
