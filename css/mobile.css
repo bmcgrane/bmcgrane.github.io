@@ -1,0 +1,150 @@
+@media (max-width: 320px) {
+
+@import url(http://fonts.googleapis.com/css?family=Questrial);
+@import url(http://fonts.googleapis.com/css?family=Pacifico);
+
+body {
+  font-family: 'Questrial', sans-serif;
+  background-color: #FAF0E6;
+}
+
+#container {
+  margin: 0 auto;
+  width: 700px;
+}
+
+header {
+  text-align: center;
+  border-bottom: 1px solid #ccc;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+
+h1 {
+  font-family: 'Pacifico', cursive;
+  color: #FA8B60;
+}
+
+h2 {
+  font-family: 'Pacifico', cursive;
+  color: #FA8B60;
+}
+
+header h2, header p {
+  margin: 0.2em;
+}
+
+nav {
+    text-align: center;
+    border-bottom: 1px solid #ccc;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul {
+  padding: 0;
+}
+
+nav li {
+    display: inline;
+}
+
+nav a {
+    display: inline-block;
+    padding: 8px;
+}
+
+a:link {
+  color: #FA8B60;
+}
+
+a:visited {
+  color: #766151;
+}
+
+a:hover {
+  color: #D2C950;
+}
+
+a:active {
+  color: black;
+}
+
+#bio {
+  text-align: center;
+  padding-top: 60px;
+  padding-bottom: 120px;
+  border-bottom: 1px solid #ccc;
+}
+
+IMG.displayed {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.avatar {
+  float: left;
+  padding-left: 270px;
+  padding-right: 0;
+}
+
+.intro {
+  padding-left: -20px;
+  padding-top: 70px;
+  padding-right: 240px;
+}
+
+#education {
+  margin: 80px;
+  border-bottom: 1px solid #ccc;
+}
+
+#work {
+  margin: 80px;
+  border-bottom: 1px solid #ccc;
+}
+
+#volunteer {
+  margin: 80px;
+  border-bottom: 1px solid #ccc;
+}
+
+#activities {
+  margin: 80px;
+  border-bottom: 1px solid #ccc;
+}
+
+#skills {
+  margin: 80px;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 4px;
+}
+
+#contact {
+  text-align: center;
+  padding-top: 20px;
+  border-bottom: 1px solid #ccc;
+}
+
+IMG.displayed {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#mywork {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid #ccc;
+  margin-left: 80px;
+  margin-right: 80px;
+  text-align: center;
+}
+
+
+footer {
+  text-align: center;
+  color: #D2C950;
+}
