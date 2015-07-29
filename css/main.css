@@ -16,8 +16,8 @@ header {
   text-align: center;
   font-size: 35px;
   border-bottom: 1px solid #ccc;
-  padding-top: 2px;
-  padding-bottom: 2px;
+  padding-top: 0px;
+  padding-bottom: 0px;
 }
 
 h1 {
@@ -52,7 +52,7 @@ nav li {
 
 nav a {
     display: inline-block;
-    padding: 8px;
+    padding: 4px;
 }
 
 a:link {
