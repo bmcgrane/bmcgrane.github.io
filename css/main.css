@@ -1,9 +1,9 @@
-@import url(http://fonts.googleapis.com/css?family=Amantic SC);
+@import url(http://fonts.googleapis.com/css?family=Questrial);
 @import url(http://fonts.googleapis.com/css?family=Pacifico);
 
 body {
-  font-family: 'Amantic SC', sans-serif;
-  background-color: #FAF0E6;
+  font-family: 'Questrial', sans-serif;
+  background-color: ##D8D8D8;
 }
 
 #container {
