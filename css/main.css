@@ -4,7 +4,7 @@
 
 body {
   font-family: 'Raleway Dots', cursive;
-  background-color: #FBF8EF;
+  background-color: #FFFFFF;
 }
 
 #container {
@@ -14,7 +14,7 @@ body {
 
 header {
   text-align: center;
-  font-size:16px;
+  font-size: 40px;
   border-bottom: 1px solid #ccc;
   padding-top: 4px;
   padding-bottom: 4px;
