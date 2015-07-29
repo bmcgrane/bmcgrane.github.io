@@ -16,8 +16,8 @@ header {
   text-align: center;
   font-size: 35px;
   border-bottom: 1px solid #ccc;
-  padding-top: 0px;
-  padding-bottom: 0px;
+  padding-top: 2px;
+  padding-bottom: 2px;
 }
 
 h1 {
@@ -74,7 +74,7 @@ a:active {
 #bio {
   text-align: center;
   padding-top: 60px;
-  padding-bottom: 120px;
+  padding-bottom: 60px;
   border-bottom: 1px solid #ccc;
 }
 
