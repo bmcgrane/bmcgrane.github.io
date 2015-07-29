@@ -3,7 +3,7 @@
 
 body {
   font-family: 'Questrial', sans-serif;
-  background-color: #BDBDBD;
+  background-color: #D8D8D8;
 }
 
 #container {
@@ -20,12 +20,12 @@ header {
 
 h1 {
   font-family: 'Pacifico', cursive;
-  color: #FA8B60;
+  color: #FE9A2E;
 }
 
 h2 {
   font-family: 'Pacifico', cursive;
-  color: #FA8B60;
+  color: #FE9A2E;
 }
 
 header h2, header p {
@@ -144,5 +144,5 @@ IMG.displayed {
 
 footer {
   text-align: center;
-  color: #D2C950;
+  color: #FE9A2E;
 }
