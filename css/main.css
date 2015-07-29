@@ -75,7 +75,7 @@ a:active {
   text-align: center;
   padding-top: 60px;
   padding-bottom: 60px;
-  border-bottom: 1px solid #ccc;
+  border-bottom: 0px solid #ccc;
 }
 
 IMG.displayed {
