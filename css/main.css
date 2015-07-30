@@ -64,11 +64,11 @@ a:link {
 }
 
 a:visited {
-  color: #766151;
+  color: #6E6E6E;
 }
 
 a:hover {
-  color: #D2C950;
+  color: #F6E3CE;
 }
 
 a:active {
@@ -153,5 +153,5 @@ IMG.displayed {
 
 footer {
   text-align: center;
-  color: #FE9A2E;
+  color: black;
 }
